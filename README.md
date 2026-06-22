@@ -2,26 +2,27 @@
 <img src="app-icon.png" alt="App Logo" width="200">
 </p>
 
-# vid-dl
+# vid-dl v1
 Vid-dl is a modern desktop video downloader.  Download any publicly available videos, audio, playlists and media via a clean, lightweight interface.
-
----
-
-## ⚠ PRE-RELEASE
-
-This app is currently an Pre-Release version.
-The application is functional and suitable for testing, but some features are still being improved and bugs may be present.
-Please report issues and suggestions through GitHub Issues.
 
 ---
 
 ## Features
 
-* Download videos at max quality of 2K
+* Download videos at max quality of 2K which support over 1000+ sites
 * Download audio-only formats (MP3 or M4A)
-* Download history tracking
-* Modern desktop interface
-* Very-Lightweight application
+* Download history tracking and queue management
+* Modern desktop interface in both dark and light themes for comfortable usage
+* Ultra-Lightweight application
+* Bulk Video Downloads - Add multiple video links at once or import them directly using a support file type.
+* Smart Download Options
+Download subtitles (when available)
+Embed thumbnails into video files
+Choose preferred formats and quality
+* Network Control Features
+Set download speed limits to avoid network congestion
+IPv4 network support
+Proxy support for restricted environments
 
 ---
 
@@ -40,6 +41,9 @@ The app might automatically detect missing dependencies and assist with installa
 ## Installation
 
 Just download the latest version and run the installation
+Microsoft Visual C++ Redistributable 2015–2022 (x64) (usually already installed on most systems)
+FFmpeg - the app will ask for a selt installation
+
 
 ---
 
@@ -60,7 +64,8 @@ If you encounter a bug, please include:
 * Website URL (if applicable)
 * Error message
 * Steps to reproduce
-
+  
+Any errors report us : https://forms.gle/qYfev3rjCh5bxFDB8
 This helps improve future releases.
 
 ---

@@ -2,10 +2,18 @@
 <img src="app-icon.png" alt="App Logo" width="200">
 </p>
 
+
+> [!WARNING]  
+> **The app is down for maintenance of v1.1**  
+> We are updating our systems. Please check back shortly.
+
+
 # vid-dl v1
 Vid-dl is a modern desktop video downloader.  Download any publicly available videos, audio, playlists and media via a clean, lightweight interface.
 
 ---
+
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Project-Vid-dl/vid-dl/total?style=flat&label=Downloads&color=blue)
 
 ## Features
 

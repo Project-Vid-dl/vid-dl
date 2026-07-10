@@ -3,12 +3,7 @@
 </p>
 
 
-> [!WARNING]  
-> **The app is down for maintenance of v1.1**  
-> We are updating our systems. Please check back shortly.
-
-
-# vid-dl v1
+# vid-dl v1.1
 Vid-dl is a modern desktop video downloader.  Download any publicly available videos, audio, playlists and media via a clean, lightweight interface.
 
 ---
@@ -31,6 +26,7 @@ Choose preferred formats and quality
 Set download speed limits to avoid network congestion
 IPv4 network support
 Proxy support for restricted environments
+Choose connection source (when multiple connections detected)
 
 ---
 

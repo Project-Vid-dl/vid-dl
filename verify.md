@@ -1,15 +1,15 @@
-Version 1.1.1 on 12th of July, 2026
+Version 1.2.0 on 31th of July, 2026
 
 Virus Total Result - No security vendors flagged this file as malicious
-[[https://www.virustotal.com/gui/file/d64f1e3404981e8952e8401c6b3a79d7d0b5007cb9caeac5b0d47e9e66cd6610/detection](https://www.virustotal.com/gui/file/d64f1e3404981e8952e8401c6b3a79d7d0b5007cb9caeac5b0d47e9e66cd6610)]
+[[https://www.virustotal.com/gui/file/57f399e75626f2b633bbda480cc624621433206357b82551273eb99e22e0db23/detection](https://www.virustotal.com/gui/file/57f399e75626f2b633bbda480cc624621433206357b82551273eb99e22e0db23)]
 
 Basic Properties
 
+SHA-256:
+57f399e75626f2b633bbda480cc624621433206357b82551273eb99e22e0db23
+
 MD5:
-707667a0d68bf555af1beb17c862c48e
+fc825e001f6a239c1444c570f94ea58d
 
 SHA-1:
-887b50e67ec866c749f68d090cd7a2805ad7e990
- 
-SHA-256:
-d64f1e3404981e8952e8401c6b3a79d7d0b5007cb9caeac5b0d47e9e66cd6610
+19cc3e191271458a23c28eb90ef5c50a9fda1c52

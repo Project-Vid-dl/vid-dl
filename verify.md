@@ -1,7 +1,7 @@
 Version 1.4.0 on 30th of August, 2026
 
 Virus Total Result - No security vendors flagged this file as malicious
-[[https://www.virustotal.com/gui/file/684ed6cfb6ee7b32b754377538315e5e1c78c9a304b637bebe58e1c8dd048576/detection(https://www.virustotal.com/gui/file/684ed6cfb6ee7b32b754377538315e5e1c78c9a304b637bebe58e1c8dd048576]
+https://www.virustotal.com/gui/file/684ed6cfb6ee7b32b754377538315e5e1c78c9a304b637bebe58e1c8dd048576
 
 Basic Properties
 

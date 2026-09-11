@@ -3,7 +3,7 @@
 </p>
 
 
-# vid-dl v1.3
+# vid-dl v1.4
 Vid-dl is a modern desktop video downloader.  Download any publicly available videos, audio, playlists and media via a clean, lightweight interface.
 
 ---

@@ -3,7 +3,7 @@
 </p>
 
 
-# vid-dl v1.4
+# vid-dl v1.5
 Vid-dl is a modern desktop video downloader.  Download any publicly available videos, audio, playlists and media via a clean, lightweight interface.
 
 ---
@@ -12,7 +12,7 @@ Vid-dl is a modern desktop video downloader.  Download any publicly available vi
 
 ## Features
 
-* Download videos at max quality of 2K which support over 1000+ sites
+* Download videos at max quality of 8K which support over 1000+ sites
 * Download audio-only formats (MP3 or M4A)
 * Download history tracking and queue management
 * Modern desktop interface in both dark and light themes for comfortable usage
@@ -27,6 +27,10 @@ Set download speed limits to avoid network congestion
 IPv4 network support
 Proxy support for restricted environments
 Choose connection source (when multiple connections detected)
+* Authentication support
+Gives access to download private and age-restricted contents
+* SponsorBlock Support
+Save your time by cutting off promos in Youtube videos
 
 ---
 
@@ -45,7 +49,7 @@ The app might automatically detect missing dependencies and assist with installa
 ## Installation
 
 Just download the latest version and run the installation
-Microsoft Visual C++ Redistributable 2015–2022 (x64) (usually already installed on most systems)
+Microsoft Visual C++ Redistributable 2015–2022 (x64) (already installed on most systems)
 FFmpeg - the app will ask for a selt installation
 
 
@@ -68,6 +72,7 @@ If you encounter a bug, please include:
 * Website URL (if applicable)
 * Error message
 * Steps to reproduce
+* Share logs to analyse the issue
 
 Use the "Report Bug" template in the issue
 For anonymous report : https://forms.gle/qYfev3rjCh5bxFDB8
@@ -98,7 +103,7 @@ Users are responsible for making sure they have the rights, permissions or licen
 ## Technologies Used
 
 * yt-dlp
-
+* FFmpeg (Post-Processor)
 ---
 
 ## License

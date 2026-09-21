@@ -49,7 +49,7 @@ body:
       required: false
 
   - type: input
-    id: url
+    id: logs
     attributes:
       label: Logs
       placeholder: https://logpasta.com/
